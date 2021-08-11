@@ -1,1 +1,1 @@
-# web-real-time-face-detection
+# web-real-time-motion-detection
