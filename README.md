@@ -29,3 +29,4 @@ Where `<IP>` is the IP address of the system (127.0.0.1 for example if hosted lo
 3. The stream will be populated to the specified IP address.
 
 ## Output
+![output](https://raw.githubusercontent.com/MeshalAlamr/web-real-time-motion-detection/main/output.gif)
